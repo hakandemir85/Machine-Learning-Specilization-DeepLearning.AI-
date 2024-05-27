@@ -1,1 +1,1 @@
-# Machine-Learning-Specilization-DeepLearning.AI-
+# Machine Learning Specilization - DeepLearning.AI-
